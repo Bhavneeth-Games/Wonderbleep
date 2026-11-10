@@ -1,0 +1,20 @@
+[Sound Theme]
+Name=Wonderbleep
+Comment=Retro-Modern KDE system sounds by an amateur sound designer.
+Directories=stereo,actions,notifications,ui
+Inherits=oxygen,breeze,freedesktop
+
+[stereo]
+OutputProfile=stereo
+
+[actions]
+Context=Actions
+OutputProfile=stereo
+
+[notifications]
+Context=Notifications
+OutputProfile=stereo
+
+[ui]
+Context=UI
+OutputProfile=stereo
